@@ -1,2 +1,2 @@
-# Bootcamp-3T2021-SHS-Rein
-A game 
+Rein
+A game that showcase a sustainable community  
