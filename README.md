@@ -1,2 +1,2 @@
 # Rein
-A game that showcase a sustainable community  
+A game that showcase a sustainable land
